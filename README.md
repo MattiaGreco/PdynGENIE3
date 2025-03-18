@@ -1,7 +1,7 @@
 # PdynGENIE3
 This repository contains an implementation of the dynGENIE3 algorithm for network inference from time series data, with additional features.
 The original algorithm was developed by "Huynh-Thu V., Geurts P., dynGENIE3: dynamical GENIE3 for the inference of gene networks from time series expression data. Sci Rep 8, 3384 (2018).". 
-The following extension was created by Matia Greco and Olivier C. Martin. The new features are explained in full detail in "Greco M., Ricci-Tersenghi F., Martin O.C., Boosting reliability when inferring interactions from time series data in gene regulatory networks, bioarxiv https://doi.org/10.1101/2025.02.17.638617 ".
+The following extension was created by Mattia Greco and Olivier C. Martin. The new features are explained in full detail in "Greco M., Ricci-Tersenghi F., Martin O.C., Boosting reliability when inferring interactions from time series data in gene regulatory networks, bioarxiv https://doi.org/10.1101/2025.02.17.638617 ".
 
 In the following repository one can find:
 
