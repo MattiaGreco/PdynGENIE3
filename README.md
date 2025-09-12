@@ -20,5 +20,6 @@ In the following repository one can find:
 
 -TestData_InOut1 : 5 graphs of 100 nodes with in-out degree of 1 returnd from Gene Net Weaver.
 
+-In_out_degree_3_num_nodes_100.zip : a more extensive dataset consisting of the 100 graphs used in paper for in-out degree of 3. 
 
 
