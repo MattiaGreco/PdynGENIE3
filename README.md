@@ -1,7 +1,7 @@
 # PdynGENIE3
 This repository contains an implementation of the dynGENIE3 algorithm for network inference from time series data, with additional features.
 The original algorithm was developed by "Huynh-Thu V., Geurts P., dynGENIE3: dynamical GENIE3 for the inference of gene networks from time series expression data. Sci Rep 8, 3384 (2018).". 
-The following extension was created by Mattia Greco and Olivier C. Martin. The new features are explained in full detail in "Greco M., Ricci-Tersenghi F., Martin O.C., Boosting reliability when inferring interactions from time series data in gene regulatory networks, bioarxiv https://doi.org/10.1101/2025.02.17.638617 ".
+The following extension was created by Mattia Greco and Olivier C. Martin. The new features are explained in full detail in "M. Greco, F. Ricci-Tersenghi, O.C. Martin, Boosting reliability when inferring interactions from time series data in gene regulatory networks, 2026, Mach. Learn.: Sci. Technol. 7 045043;  doi: 10.1088/2632-2153/ae902; https://doi.org/10.1101/2025.02.17.638617 ".
 
 In the following repository one can find:
 
@@ -22,4 +22,4 @@ In the following repository one can find:
 
 -In_out_degree_3_num_nodes_100.zip : a more extensive dataset consisting of the 100 graphs used in paper for in-out degree of 3. 
 
-
+-Inferelator : The folder contains the codes to run the inferelator (the method can be found at: "Gibbs C S et al 2022 High-performance single-cell gene regulatory network inference at scale: the Inferelator 3.0 Bioinformatics 38 2519–28") and the results on our dataset.
